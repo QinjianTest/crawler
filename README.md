@@ -9,8 +9,7 @@
 ### 克隆仓库
 
    ```bash
-   git clone https://github.com/yourusername/holiday-calendar-scraper.git
-   cd holiday-calendar-scraper
+   git clone https://github.com/QinjianTest/crawler.git
   ```
 
 ### 创建虚拟环境 
